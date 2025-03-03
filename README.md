@@ -1,5 +1,5 @@
 <h1>Hi, I'm David! 
-  IT Support Professional
+
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
