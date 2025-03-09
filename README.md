@@ -32,4 +32,4 @@
 
 [<img width="25" alt="vincentchachere | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]:(https://www.linkedin.com/in/david-clarke-92428424b/)
+[linkedin]:https://www.linkedin.com/in/david-clarke-92428424b
