@@ -1,40 +1,35 @@
-<h1>Hi, I'm David! 
+# Hey, I'm David! [IT Professional](https://www.linkedin.com/in/david-clarke-92428424b/)
 
-  
-<h2>👨‍💻 Software Development Projects:</h2>
+## 👨‍💻 Information Technology Projects:
 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <img width="200" alt="osTicket Logo" src="https://github.com/vincentchachere/vincentchachere/assets/161680745/371c3628-b179-40fb-95cc-f9b3fe58746b"/>
 
-<h2>📺 Certifications </h2>
+  - [osTicket: Prerequisites and Installation](https://github.com/vincentchachere/osticket-prereqs)
+  - [osTicket: Post-Installation and Configuration](https://github.com/vincentchachere/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/vincentchachere/ticket-lifestyle)
 
-- 
-<h2> 🤳 Connect with me:</h2>
+- <img width="200" alt="Microsoft Azure Logo" src="https://github.com/vincentchachere/vincentchachere/assets/161680745/3fff2a49-5fc2-4c2d-8ddb-ebfb18034c31"/>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  - [Creating a Virtual Machine on Azure](https://github.com/vincentchachere/virtual-machine)
+  - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/vincentchachere/azure-on-prem-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/vincentchachere/azure-network-protocols)
+ 
+#### 🌐 Active Directory
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+  - [Active Directory Deployment and Configuration](https://github.com/vincentchachere/Active-Directory-Infrastructure-Deployment-and-Configuration)
+  - [Active Directory Group Policy and Account Management](https://github.com/vincentchachere/Group-Policy-and-Managing-Accounts)
+  - [Network File Shares and Permissions](https://github.com/vincentchachere/Network-File-Shares-and-Permissions)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💻 DNS Resolution
 
-Here are some ideas to get you started:
+  - [Exploring A-Records, CNAMEs, and Local DNS Cache](https://github.com/vincentchachere/DNS-Fundamentals)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📡 VPN Setup
+
+  - [VPN Setup and Geo-Location](https://github.com/vincentchachere/VPN-Setup-and-Geo-location-Testing)
+
+## 🤳 Connect with me:
+
+[<img width="25" alt="vincentchachere | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]:(https://www.linkedin.com/in/david-clarke-92428424b/)
