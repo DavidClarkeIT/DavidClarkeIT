@@ -2,13 +2,13 @@
 
 ## 👨‍💻 Information Technology Projects:
 
-- <img width="200" alt="osTicket Logo" src="https://github.com/vincentchachere/vincentchachere/assets/161680745/371c3628-b179-40fb-95cc-f9b3fe58746b"/>
+- <img width="200" alt="osTicket Logo" src="https://i.imgur.com/WlrRtaX.png"/>
 
   - [osTicket: Prerequisites and Installation](https://github.com/DavidClarkeIT/osticket-prereqs)
-  - [osTicket: Post-Installation and Configuration](https://github.com/vincentchachere/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/vincentchachere/ticket-lifestyle)
+  - [osTicket: Post-Installation and Configuration](https://github.com/DavidClarkeIT/Post-Installation-and-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/DavidClarkeIT/Ticket-Lifecycle)
 
-- <img width="200" alt="Microsoft Azure Logo" src="https://github.com/vincentchachere/vincentchachere/assets/161680745/3fff2a49-5fc2-4c2d-8ddb-ebfb18034c31"/>
+- <img width="200" alt="Microsoft Azure Logo" src="https://i.imgur.com/YbXYQxk.png"/>
 
   - [Creating a Virtual Machine on Azure](https://github.com/vincentchachere/virtual-machine)
   - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/vincentchachere/azure-on-prem-ad)
