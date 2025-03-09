@@ -4,7 +4,7 @@
 
 - <img width="200" alt="osTicket Logo" src="https://github.com/vincentchachere/vincentchachere/assets/161680745/371c3628-b179-40fb-95cc-f9b3fe58746b"/>
 
-  - [osTicket: Prerequisites and Installation](https://github.com/vincentchachere/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/DavidClarkeIT/osticket-prereqs)
   - [osTicket: Post-Installation and Configuration](https://github.com/vincentchachere/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/vincentchachere/ticket-lifestyle)
 
