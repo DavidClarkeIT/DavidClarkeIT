@@ -10,7 +10,7 @@
 
 - <img width="200" alt="Microsoft Azure Logo" src="https://i.imgur.com/YbXYQxk.png"/>
 
-  - [Creating a Virtual Machine on Azure](https://github.com/vincentchachere/virtual-machine)
+  - [Creating a Virtual Machine on Azure](https://github.com/DavidClarkeIT/Virtual-Machine)
   - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/vincentchachere/azure-on-prem-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/vincentchachere/azure-network-protocols)
  
